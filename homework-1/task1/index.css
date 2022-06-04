@@ -1,0 +1,92 @@
+div{
+  
+    background-color:white;
+    width: 295px;
+    height: 620px;
+    margin-left: 37%;
+    border: 1px solid black;
+
+
+}
+div .span1{
+    padding-left: 55px;
+    padding-top: 2px;
+    color: silver;
+    font-size: 17px;
+
+}
+div .sing{
+    padding-left: 10px;
+    margin-top: 20px;
+    color:black;
+    font-size: 32px;
+}
+div #inp1{
+    width: 260px;
+    height: 40px;
+    margin-left: 12px;
+    border: 1px solid silver;
+}
+div .did{
+    color: black;
+    font-size: 16px;
+    margin-left: 12px;
+    margin-top: 20px;
+}
+div #inp2{
+    width: 260px;
+    margin-top: -5px;
+    height: 35px;
+    margin-left: 12px;
+    border:2px solid  rgb(60, 179, 113);
+}
+div #inp3{
+    width: 260px;
+    height: 35px;
+    margin-top: 20px;
+
+    margin-left: 12px;
+    border:2px solid silver
+}
+div #inp4{
+    width: 260px;
+    height: 35px;
+    margin-left: 12px;
+    margin-top: 20px;
+
+    border:2px solid silver
+}
+div #inp5{
+    width: 260px;
+    height: 35px;
+    margin-left: 12px;
+    margin-top: 20px;
+
+    border:2px solid silver
+}
+div .chec{
+    margin-left: 13px;
+    margin-top: 35px;
+  
+    
+}
+div .rece{
+    color: black;
+    font-size: 14px;
+    padding-left: 36px;
+    margin-top: -26px;
+
+
+}
+div .btn{
+    background-color: rgb(60, 179, 113);
+    
+    width: 265px;
+    height: 40px;
+    margin-top: 18px;
+    margin-left: 14px;
+    color:rgb(243, 239, 239);
+    font-size: 17px;
+   
+
+}
